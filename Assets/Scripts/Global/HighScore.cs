@@ -7,10 +7,6 @@ public class HighScore : MonoBehaviour
     // Start is called before the first frame update
     public static int highScore;
     public Text high;
-    void Start()
-    {
-
-    }
 
     // Update is called once per frame
     void Update()
